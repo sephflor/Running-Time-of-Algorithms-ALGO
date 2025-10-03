@@ -1,1 +1,1 @@
-# Running-Time-of-Algorithms-ALGO
+# Running-Time-of-Algorithms-ALGO.This function counts and returns the total number of shifts performed during insertion sort, where each time an element is moved one position to the right, it counts as one shift operation.
